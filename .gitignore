@@ -26,7 +26,3 @@ Thumbs.db
 # === Coverage ===
 coverage/
 **/coverage/
-
-# === Local uploads or temp storage (optional) ===
-uploads/
-tmp/
